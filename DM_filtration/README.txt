@@ -1,1 +1,2 @@
 
+The DM scripts are not available with user interface yet. The scripts should be opened with a STEM image in DM. The script "test" creates only one mask and should be used for the initial filtration process by adjusting the radius and angle variables in the script. Then, on the chosen IFFT, using the same, previously chosen variables we create multiple FFT mask through the "main" DM script.
